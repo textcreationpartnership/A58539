@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots Commissioners, their desires concerning unitie in religion, and uniformitie of Church-government as a speciall meanes for conserving of peace, in his Majesties dominions. Presented to the Kings Majestie, and both Houses of Parliament in England. March. 1641.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 25 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58539</idno>
+            <idno type="STC">Wing S1001C</idno>
+            <idno type="STC">ESTC R219080</idno>
+            <idno type="EEBO-CITATION">99830608</idno>
+            <idno type="PROQUEST">99830608</idno>
+            <idno type="VID">35061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2077:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots Commissioners, their desires concerning unitie in religion, and uniformitie of Church-government as a speciall meanes for conserving of peace, in his Majesties dominions. Presented to the Kings Majestie, and both Houses of Parliament in England. March. 1641.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Bryon,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Edinburgh University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religion and politics --  Early works to 1800.</term>
+               <term>Presbyterianism --  Early works to 1800.</term>
+               <term>Episcopacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35061:1"/>
+            <pb facs="tcp:35061:1" rendition="simple:additions"/>
+            <p>THE SCOTS <hi>COMMISSIONERS,</hi> Their deſires concerning uni<g ref="char:EOLhyphen"/>tie in Religion, and uniformitie of <hi>Church-government, as a ſpeciall</hi> meanes for conſerving of Peace, in his Majeſties Dominions.</p>
+            <p>Preſented to the Kings Majeſtie, <hi>and both Houſes of Parliament in England.</hi> MARCH. 1641.</p>
+            <p>EDINBVRGH, Printed by <hi>James Bryſon,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35061:2"/>
+            <pb n="3" facs="tcp:35061:2"/>
+            <head>THE SCOTS COMMISSIONERS, their deſires concerning unitie <hi>in Religion, and uniformitie of</hi> Church-government, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S wee ſhall not make any pro<g ref="char:EOLhyphen"/>poſition about the laſt Article, of eſtabliſhing a firme and hap<g ref="char:EOLhyphen"/>pie peace, but that which wee conceive to bee both expedient and juſt; So will your L<hi rend="sup">o</hi>. (we doubt not) in your wiſedomes conſider; that ſince that which is ſought, is not a ceſſation of Armes for a time, but peace for ever, and not peace onely, but a perfect amitie, and a more neare union then before, which is of greater conſequence, then all the former Articles. It is no marvell that a compo<g ref="char:EOLhyphen"/>ſition ſo excellent, and ſo powerfull, to preſerve the whole Yland in health againſt all inward diſtempers, and in ſtrength againſt all contagion and wounds from without, require ma<g ref="char:EOLhyphen"/>nie ingredients, of which, if any one be wanting, wee may on both ſides pleaſe our ſelves for the preſent, with the ſweet
+<pb n="4" facs="tcp:35061:3"/>name of Peace, and yet for no long time enjoy Peace it ſelfe, which hath in it not onely ſweetneſſe and pleaſure, but alſo much more profit and true honour, then all the triumphes on earth.</p>
+            <p>As wee accompt it no leſſe then uſurpation and preſump<g ref="char:EOLhyphen"/>tion for one Kingdome or Church, were it never ſo mightie and glorious, to give lawes and rules of reformation to ano<g ref="char:EOLhyphen"/>ther free and independent Church and Kingdome, were it never ſo meane: civill libertie and conſcience beeing ſo ten<g ref="char:EOLhyphen"/>der and delicat, that they cannot endure to bee touched, but by ſuch as they are wedded unto, and have lawfull authoritie over them, ſo have wee not beene ſo forgetfull of our ſelves who are the leſſer, and of <hi>England</hi> who is the greater King<g ref="char:EOLhyphen"/>dome as to ſuffer any ſuch arrogant and preſumptuous thoughts, to enter into our mindes. Our wayes alſo are wit<g ref="char:EOLhyphen"/>neſſes of the contrare againſt the malicious, who doe not ex<g ref="char:EOLhyphen"/>preſſe what we are, or have beene, but doe ſtill deviſe what may bee fewell for a common combuſtion; Yet Charitie is no preſumption, and the common duety of Charitie bindeth all Chriſtians, at all times, both to pray, and profeſſe thei<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſire: <hi>That all others were not onely almoſt, but altogethe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch as themſelves, except their afflictions and diſtreſſes<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> And beſide common Charitie, wee are bound as <hi>Commiſsio<g ref="char:EOLhyphen"/>ners,</hi> in a ſpeciall duetie to propone the beſt and readie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meanes for ſetling of a firme Peace, as wee love not to be cu<g ref="char:EOLhyphen"/>rious in any other Common-wealth, nor to play the Biſho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in another mans Dioceſe: So may wee not bee careleſſe an<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> negligent in that which concerneth both Nations.</p>
+            <p>Wee doe all know and profeſſe that Religion is not onl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the meane to ſerve God, and to ſave our owne ſoules, b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="5" facs="tcp:35061:3"/>that it is alſo the baſe &amp; foundation of Kingdomes, &amp; Eſtats and the ſtrongeſt band to tye the Subjects to their Prince in true loyaltie, and to knit the hearts of one to another in true unitie: Nothing ſo powerfull to divide the hearts of people as diviſion in Religion, nothing ſo ſtrong to unite them as unitie in Religion: And the greater zeale in different Religions, the greater diviſion. But the more zeale in one Religion, the more firme union. In the paradiſe of nature the diverſitie of flowers, and herbes is pleaſant and uſefull, but in the paradiſe of the Church, different and contrarie Religions are unpleaſant and hurtfull: It is therefore to bee wiſhed, that there were one confeſſion of Faith, one forme of Catechiſme, one directory for all the parts of the publick worſhip of God, as Prayer, Preaching, adminiſtration of Sacraments, &amp;c. And one forme of Church-government in all the Churches of his Majeſties dominions. This would.</p>
+            <p n="1">1. Be acceptable to God Almightie, who delighteth to ſee his people walking in truth and unitie, and who would looke upon this Yland with the greater complacencie that wee were all of one heart and one ſoule in matters of Reli<g ref="char:EOLhyphen"/>gion.</p>
+            <p n="2">2. This unitie in Religion will preſerve our Peace, and prevent many diviſions and troubles. Of old (as <hi>Beda</hi> re<g ref="char:EOLhyphen"/>cordeth) the difference about the time of obſerving <hi>Eaſter,</hi> although no great matter in Religion, and although in divers independent Kingdomes, had troubled their peace, if the wiſer ſort had not brought them to one uniformitie, where<g ref="char:EOLhyphen"/>in they were ſo zealous, that they would not ſuffer ſo much as one ſmall Yland, which differed from the reſt to bee un<g ref="char:EOLhyphen"/>conforme.</p>
+            <pb n="6" facs="tcp:35061:4"/>
+            <p n="3">3. His Majeſtie and his Succeſſours in their government ſhall be eaſed of much more trouble which ariſeth from dif<g ref="char:EOLhyphen"/>ferences of Religion, and hath beene very grievous unto Kings and Emperours; As <hi>Euſebius</hi> witneſſeth in his third booke chap. 12. of the life of <hi>Conſtantine. Sedition begotten in the Church of God (ſaith Conſtantine) ſeeme to mee to con<g ref="char:EOLhyphen"/>taine in it ſelfe more trouble, and bitterneſſe, then warre or battell.</hi>
+            </p>
+            <p n="4">4. Since by divine providence, his Majeſtie is King of di<g ref="char:EOLhyphen"/>vers Kingdomes: It ſhall be much content both to himſelfe, to his Nobles and Court, and to all his people: When his Majeſtie ſhall in perſon viſite any of his Kingdomes, that King, Court, and people, may without all ſcruple of con<g ref="char:EOLhyphen"/>ſcience, bee partakers of one and the ſame forme of divine worſhip, and his Majeſtie with the Court may come to the publick Aſſemblie of the people, and ſerve God with them according to the practiſe of the good Kings of <hi>Iudah:</hi> As on the other part; difference in formes of divine worſhip divi<g ref="char:EOLhyphen"/>deth betweene the King and the people.</p>
+            <p n="5">5. This ſhall bee a great comfort to all his Majeſties Sub<g ref="char:EOLhyphen"/>jects, when they travell abroad from their owne Countrey, to any other place in his Majeſties dominions, whither for commerce, or whatſoever negotiation and effaires: That they may with confidence reſort to the publicke worſhip, as if they were at home, and in their owne paroch Church, and ſhall ſatisfie many doubts, and remove many excepti<g ref="char:EOLhyphen"/>ons, jealouſies, and ſcandals, which ariſe upon reſorting to different formes of worſhip.</p>
+            <p n="6">6. The names of Haereſies, and Sects, Puritanes, Conformiſts, Separatiſts, which rent the bowels both of
+<pb n="7" facs="tcp:35061:4"/>Church and Kingdome, are a matter of much ſtumbling to the people, and diminiſh the glorie of his Majeſties reigne, ſhall no more be heard, but as the Lord is one, his Name ſhall bee one, and the name of the people one, in all his Majeſties dominions.</p>
+            <p n="7">7. Papiſts and Recuſants ſhall diſpaire of ſucceſſe, to have their Religion ſet up againe, and ſhall either conforme themſelves, or get themſelves hence, and irreligious men ſhall have a great ſcandall removed out of their way, which ſhall bee a meane of great ſaftie and ſecuritie, and of many bleſſings both to King and people: I am perſwaded (ſaith <hi>Conſtantine</hi>) as <hi>Euſebius</hi> recordeth in his life lib. 2. cap. 63. <hi>Were I able as it is in my deſires, to bind all the true worſhippers of God, by the common bond of concord, all the Subjects of my Empire would quickly turne themſelves to their pious ordinances.</hi>
+            </p>
+            <p n="8">8. This unitie of Religion ſhall make Miniſters to build the Church with both their hands, whiles now the one hand is holden out in oppoſition againſt the other par<g ref="char:EOLhyphen"/>tie, and ſhall turne the many and unpleaſant labours of writ<g ref="char:EOLhyphen"/>ting and reading of unprofitable controverſies into treatiſes of mortification, and ſtudies of devotion, and practicall di<g ref="char:EOLhyphen"/>vinitie.</p>
+            <p>This unitie of Religion is a thing ſo deſireable, that all found Divines and Politicians are for it, where it may bee eaſily obtained and brought about, and as wee conceive ſo pious and profitable a work, to be worthie the beſt conſide<g ref="char:EOLhyphen"/>rations: So are we earneſt in recommending it to your Lo. that it may be brought before his Majeſtie, and the Patlia<g ref="char:EOLhyphen"/>ment, as that which doth highly concerne his Majeſties ho<g ref="char:EOLhyphen"/>nour and the well of all his dominions. And which with<g ref="char:EOLhyphen"/>out
+<pb n="8" facs="tcp:35061:5"/>forcing of conſciences, ſeemeth not only to be poſſible, but an eaſie work. But becauſe the matter is of great weight and of large extent, Our deſire is, that for the preſent ſome courſe may betaken for an uniformitie in government.</p>
+            <p n="1">1. Becauſe there can be ſmall hope of unitie in Religion (which is the chiefe bond of Peace and humane ſocietie) unleſſe there be firſt one forme of Eccleſiaſticall govern<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="2">2. Becauſe difference in this point hath beene the maine cauſe of all other differences betweene the two Nations, ſince the reformation of Religion.</p>
+            <p n="3">3. Becauſe (although it ought not to be ſo) we finde it true in experience, that Church-men through their corrup<g ref="char:EOLhyphen"/>tion are more hotte and greater <hi>Zelotes</hi> about government, then about matters more ſubſtantiall, their worldly digni<g ref="char:EOLhyphen"/>ties and wealth being herein concerned: As <hi>Eraſmus</hi> render<g ref="char:EOLhyphen"/>eth this reaſon of the animoſity of the Church of <hi>Rome</hi> a<g ref="char:EOLhyphen"/>gainſt <hi>Luther,</hi> ſeeking after Reformation, that hee medleth with the Popes crowne, and the Monkes bellies.</p>
+            <p n="4">4. It is obſerved by Politicians, and we have found it in experience, that Church-men doe not onely beare with dif<g ref="char:EOLhyphen"/>ferent Religions, and ſuffer diviſion both in Church and Po<g ref="char:EOLhyphen"/>licie to riſe and grow, but doe alſo foment and cheriſh the contrarie factions, that they themſelves may grow bigge and ſwell to a greatneſſe, while both ſides have their dependance upon them; and hath their thoughts buſied about other mat<g ref="char:EOLhyphen"/>ters, then about Church-government, and the ambition, pompe, and other corruptions of Church governours.</p>
+            <p n="5">5. None of all the reformed Churches, although in Na<g ref="char:EOLhyphen"/>tions farre diſtant one from another, and under diverſe prin<g ref="char:EOLhyphen"/>ces,
+<pb n="9" facs="tcp:35061:5"/>and Magiſtrates are at ſo great a difference in Church-government, as theſe two Kingdomes which are in one Yland, and under one Monarch, which made King <hi>Iames</hi> (of happie memorie) to labour to bring them under one forme of government.</p>
+            <p>But ſince all the queſtion is, whither of the two Church-governments ſhall have place in both Nations (for we know no third forme of the government of a nationall Church di<g ref="char:EOLhyphen"/>ſtant from theſe) we doe not preſume to propone the forme of government of the Church of <hi>Scotland,</hi> as a paterne of the Church of <hi>England,</hi> but doe only repreſent in all modeſtie theſe few conſiderations, according to the truſt committed unto us.</p>
+            <p n="1">1. The government of the Church of <hi>Scotland,</hi> is the ſame with the government of all the reformed Churches, and hath beene by them univerſally received and practiſed, with the reformation of the doctrine and worſhip, from which ſo far as we depart: We disjoyne our ſelves as farre from them, and weloſſe ſo much of our harmonic with them: Whence it is, that from other reformed Churches, it hath beene written to the Church of <hi>Scotland,</hi> That it was a great gift of God, that they had brought together into <hi>Scotland,</hi> the puritie of Religion, and Diſcipline, whereby the doctrine is ſafely, keeped, praying and beſeeching them, ſo to keepe thoſe two together, as beeing aſſured, that if the one fall, the other can not long ſtand. Vpon the other part, the government of the Church of <hi>England,</hi> was not changed with the doctrine at the time of the reformation: The Pope was rejected, but his Hierarchie was retained, which hath beene a ground of jea<g ref="char:EOLhyphen"/>louſie and ſuſpition to the reformed Churches, of continuall
+<pb n="10" facs="tcp:35061:6"/>contention in the Church of <hi>England</hi> theſe foure-ſcore years paſt, ſince the beginning of Queen <hi>Elizabeth</hi> her reigne, and of hopes, and expectation to the church of <hi>Rome,</hi> for ſaith <hi>Coulzen</hi> in his politicks, l. 2. c. 18. Were all <hi>England</hi> brought once to approve of Biſhops, it were eaſie to reduce it to the church of <hi>Rome.</hi> But what one Prince hath begun, and by reaſon of the times, or of other hinderances could not pro<g ref="char:EOLhyphen"/>mote or perfect, an other raiſed up by the mercie of God, may bring to paſſe, according to the example of good <hi>Ioſiah,</hi> like unto whom there was no King before, which we hearti<g ref="char:EOLhyphen"/>ly wiſh may bee verified of King <hi>Charles.</hi>
+            </p>
+            <p n="2">2. The Church of <hi>Scotland</hi> hath beene continually and ſundrie wayes vexed, and diſquieted by the Biſhops of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Firſt, by the continuall and reſtleſſe negotiation of the prime Prelates in <hi>England,</hi> with ſome of that faction in <hi>Scotland,</hi> both before the comming of King <hi>Iames</hi> into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (which we are ready to make manifeſt) and ſince his comming, till at laſt a kind of Epiſcopacie was erected there, by the power of the Prelates of <hi>England,</hi> againſt the confeſ<g ref="char:EOLhyphen"/>ſion of Faith, the Covenant, and actes of the nationall aſ<g ref="char:EOLhyphen"/>ſemblies of the Church of <hi>Scotland.</hi> Secondly, the Prelates of <hi>England,</hi> without the conſent or knowledge of the church of <hi>Scotland,</hi> gave Epiſcopall conſecration, to ſome corrupt members of the Church of <hi>Scotland,</hi> and ſent them home to conſecrat others like unto themſelves. And when ſome great men have beene for their obſtinacie in papiſtrie excom<g ref="char:EOLhyphen"/>municat by the Church of <hi>Scotland,</hi> they have been abſolved from the ſentence by the Prelates of <hi>England:</hi> So that they have uſurped the power of that which indeed is the higheſt point of juriſdiction. Thirdly, they reſted not here, but
+<pb n="11" facs="tcp:35061:6"/>proceeded to change the forme of divine worſhip, and for many yeares bred a great diſturbance both to Paſtours and people, by five Articles of conformitie with the Church of <hi>England.</hi> Fourthly, having in the former prevailed, and finding their opportunitie, and a rare concurſe of many po<g ref="char:EOLhyphen"/>werfull hands, and heads, readie to cooperate, they made ſtrong aſſaults upon the whole externall worſhip and do<g ref="char:EOLhyphen"/>ctrine of our Church, by inforcing upon us a popiſh book of common prayer, for making <hi>Scotland</hi> firſt as the weaker, and thereafter <hi>England</hi> conforme to <hi>Rome:</hi> And upon the con<g ref="char:EOLhyphen"/>ſciences, liberties, and goods of the people, by a booke of canons and conſtitutions Eccleſiaſticall, eſtabliſhing a tyran<g ref="char:EOLhyphen"/>nicall power in the perſons of our Prelats, and aboliſhing the whole Diſcipline and government of our Church, without ſo much as conſulting with any Presbyterie, Synod, or Aſ<g ref="char:EOLhyphen"/>ſembly in all the land, Fifthly, They procured ſubſidies to be lifted for warre againſt us, under the paine of deprivation to all of the Clergie who ſhould refuſe. Sixthly, They com<g ref="char:EOLhyphen"/>manded both preaching and imprecations againſt us, as ene<g ref="char:EOLhyphen"/>mies to God and the King. Seventhly, they have received into the miniſterie, and provided place for ſuch of our Mini<g ref="char:EOLhyphen"/>ſters, as for their diſobedience to the voice of the Aſſemblie, and other faults and ſcandals, were depoſed in <hi>Scotland.</hi> And finally they have left nothing undone which might tend to the overthrow of our Church, not onely of late by the oc<g ref="char:EOLhyphen"/>caſion of theſe troubles, whereof they have beene the au<g ref="char:EOLhyphen"/>thors. But of old, from that oppoſition which is between E<g ref="char:EOLhyphen"/>piſcopall government, &amp; government of reformed churches by Aſſemblies. Vpon the contrare. The Church of <hi>Scot<g ref="char:EOLhyphen"/>land</hi> hath never moleſted them, either in the doctrine, wor<g ref="char:EOLhyphen"/>ſhip,
+<pb n="12" facs="tcp:35061:7"/>ceremonies, or diſcipline of their church, but have lived quietly by them, kept themſelves within the lyne, and would have been glad to enjoy their owne liberties in peace, which yet is, and by the helpe of God ſhall be our conſtant deſire, yet can we not conceal our minds, but in our conſciences, &amp; before God, declare not fro<g ref="char:cmbAbbrStroke">̄</g> any ſaſſineſſe, or preſumptuous intention to reforme <hi>England,</hi> but fro<g ref="char:cmbAbbrStroke">̄</g> our juſt fears &amp; appre<g ref="char:EOLhyphen"/>henſions, that our reformation that hath coſt us ſo deare; And is all our wealth and glory, ſhall againe be ſpoiled, and defaced from <hi>England?</hi> That whatſoever peace ſhall bee agreed upon, we cannot ſee, nor conceive the way how our peace ſhall bee firme and durable, but our feare is, that all will runne into a confuſion againe ere it be long, if Epiſcopa<g ref="char:EOLhyphen"/>cie ſhall be retained in <hi>England,</hi> for the ſame cauſes will not faile to produce the ſame effects: Their oppoſition againſt, and hatred of the government of the reformed Churches; Their credit at Court, and nearneſſe to the King living in <hi>England,</hi> the opinion they have of their owne great learning, and of the glory of their prelaticall church, joyned with the ſmall eſteem &amp; diſdaine of our Chriſtian ſimplicity, the con<g ref="char:EOLhyphen"/>ſanguinitie of their Hierarchie, with the church of <hi>Rome,</hi> and their feare to fall before us, at laſt will ſtill be working, eſpe<g ref="char:EOLhyphen"/>cially now when they are made operative, and ſhall be ſet on work at the firſt advantage, by their vindictive diſpoſition, to be avenged upon us for the preſent quarrell, which can ne<g ref="char:EOLhyphen"/>ver be changed by any limitations. As on the contrarie, the cauſe being taken away, the effects will ceaſe, and the peace ſhall be firme. It would ſeeme that limitations, cautions, and triennall Parliaments may doe much: But we know that feare of perjury, infamie, excommunication, and the power
+<pb n="13" facs="tcp:35061:7"/>of a nationall Aſſembly, which was in <hi>Scotland</hi> as terrible to a Biſhop, as a Parliament, could not keep our men fro<g ref="char:cmbAbbrStroke">̄</g> riſing to be Prelates, and after they had riſen to their greatneſſe, their apologie was, <hi>Conditiones illa pro tempore magis quo con<g ref="char:EOLhyphen"/>tentioſis rixandi anſa praeriperetur quam animo in perpetuum obſervandi acceptae.</hi> Theſe other cautions or conditions were rather accepted of, for the time, to prevent all occaſi<g ref="char:EOLhyphen"/>on of jangling with the contentious, then out of any pur<g ref="char:EOLhyphen"/>poſe to obſerve them forever. Much is ſpoken and written of the limitation of Biſhops; But what good can the limi<g ref="char:EOLhyphen"/>tation doe to the Church? if ordination and Epiſcopall ju<g ref="char:EOLhyphen"/>riſdiction ſhall depend upon them, and ſhall not be abſolute<g ref="char:EOLhyphen"/>ly into the hands of the Aſſemblies of the Church? And if it ſhall not depend upon them, what ſhall their office be above other Paſtours? Or how ſhall their labours be worthy ſo large wages? What ſervice can they doe to King, Church, or Eſtate? <hi>Rome</hi> and <hi>Spain</hi> may be glad at the retaining of the name of Biſhops, more then the reformed Churches, which expect from us at this time ſome matter of rejoycing.</p>
+            <p n="3">3. The reformed Churches doe hold without doubting, their Church officers, Paſtors, Doctors, Elders, &amp; Deacons, and their Church government by Aſſemblies to be <hi>jure divi<g ref="char:EOLhyphen"/>no</hi> and perpetuall, as is manifeſt in all their writtings: And on the other part, Epiſcopacie as it differeth from the office of a Paſtor, is almoſt univerſally acknowledged, even by the Biſhops themſelves and their adherents, to be but an humane ordinance, eſtabliſhed by law and cuſtome for conveniencie, without warrand of Scripture, which therefore by humane authority may be altered and aboliſhed, upon ſo great a con<g ref="char:EOLhyphen"/>veniencie, and is the hearty conjunction, withall the refor<g ref="char:EOLhyphen"/>med
+<pb n="14" facs="tcp:35061:8"/>Churches, and a durable peace of the two Kingdomes, which have beene formerly divided by this partition wall: Wee therefore deſire that <hi>Ius divinum &amp; humanum,</hi> con<g ref="char:EOLhyphen"/>ſcience and conveniencie, yea, the greater convenience with the leſſer, and we may adde a conveniencie with a inconveni<g ref="char:EOLhyphen"/>encle, may bee compared and equally weighed in the bal<g ref="char:EOLhyphen"/>lance, without adding any weight of prejudice.</p>
+            <p n="4">4. The Church of <hi>Scotland</hi> warranted by authority, hath abjured Epiſcopall government, as having no warrand in Scripture; and by ſolemne oath and covenant before, and now againe of late, hath eſtabliſhed the government in the Church by Aſſemblies: But <hi>England</hi> neither having abjured the one, nor ſworne the other, hath liberty from all bonds of this kinde, to make choyſe of that which is moſt war<g ref="char:EOLhyphen"/>rantable by the word of God. And leaſt it be thought, we have wilfully bund our ſelves of late by oath, that we be not preſſed with a change, We deſire it to be conſidered, that our late oath is nothing, but the renovation of our for<g ref="char:EOLhyphen"/>mer oath and covenant, which did bind our Church before, but was tranſgreſt of many by meanes of the Prelates.</p>
+            <p n="5">5. If it ſhall pleaſe the Lord, to move the Kings heart to choiſe this courſe, hee ſhall in a better way, then was pro<g ref="char:EOLhyphen"/>jected, accompliſh the great and glorious deſigne, which King <hi>Iames</hi> had before his eyes, all his time of the unitie of Religion and Church government in all his dominions, his Crownes and Kingdomes ſhall be free of all aſſaults and po<g ref="char:EOLhyphen"/>licies of church-men, which whither in the way of Eccleſi<g ref="char:EOLhyphen"/>aſticall juriſdiction and Church cenſure; Or by complying with the Pope, the greareſt enemie of Monarchie; Or by bringing of civill government into a confuſion; Or by tak<g ref="char:EOLhyphen"/>ing
+<pb n="15" facs="tcp:35061:8"/>the fatte of the ſacrifice to themſelves: When the people are pleaſed with the government, and when they are diſplea<g ref="char:EOLhyphen"/>ſed by transferring the hatred upon authority, which was never wont to be done by any good States-man; Which all theſe wayes have proceeded from Biſhops, ſeeking their own greatneſſe: Never from Aſſemblies, which unleſſe overruled by Biſhops, have beene a ſtrong guard to Monarchie, and Magiſtracie, both the one and the other being the ordinance of God: The Church ſhall be peaceably governed by com<g ref="char:EOLhyphen"/>mon conſent of Church-men in Aſſemblies; In which the Kings Majeſty hath alwayes that eminency which is due un<g ref="char:EOLhyphen"/>to the ſupreame Magiſtrat, and by which all hereſies, errors, ſchiſmes, before abounding under Epiſcopall government, ſhall be ſuppreſſed, and the State, and all civil matters in Parliament, Councell, and other inferiour Judicatories, governed by civill men, and not by Church-men, who be<g ref="char:EOLhyphen"/>ing out of their owne element, muſt needs ſtirre and make trouble to themſelves, and the whole State, as wofull expe<g ref="char:EOLhyphen"/>rience hath taught. The worke ſhall bee better done, and the meanes which did uphold their unprofitable pompe and greatneſſe, may ſupply the wants of many preaching mem<g ref="char:EOLhyphen"/>bers to be provided to places, and without the ſmalleſt loſſe or damnage to the Subject, may be a great increaſe of his Majeſties revenues, his royall Authority ſhall be more deep<g ref="char:EOLhyphen"/>ly rooted in the unite hearts, and more ſtrongly guarded by the joint forces of his Subjects, as if they were all of one Kingdome, and his greatneſſe ſhall be enlarged abroad; by becomming the Head of all the Proteſtants in <hi>Europe,</hi> to the greater terrour of his enemies, and the forcing of greatneſſe to his Poſterity and royall Succeſſion. All which we en<g ref="char:EOLhyphen"/>treat,
+<pb n="16" facs="tcp:35061:9"/>may bee repreſented to his Majeſtie, and the Houſes of Parliament, as the expreſſion of our deſires, and fears, and as a teſtimonie of our Faithfulneſſe in acquiting our ſelves in the truſt committted unto us: But no wayes for<g ref="char:EOLhyphen"/>getting, our diſtance, or intending to paſſe our bounds in preſcribing or ſetting downe rules to their Wiſedom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Authoritie, which we doe highly reverence and ho<g ref="char:EOLhyphen"/>nour, and from which onely as the proper fountaine, th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Lawes and order of reformation, in this Church and Po<g ref="char:EOLhyphen"/>licie, muſt proceed, for the nearer union and greater hap<g ref="char:EOLhyphen"/>pineſſe of his Majeſties Dominions.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35061:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
